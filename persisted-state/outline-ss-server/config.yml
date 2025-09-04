@@ -12,14 +12,6 @@ keys:
     port: 64563
     secret: Q1EzG7a9ZyoKEh0eq31BIx
   - cipher: chacha20-ietf-poly1305
-    id: '3'
-    port: 64563
-    secret: PbGWLEYHRjgc8ELJmFZqv1
-  - cipher: chacha20-ietf-poly1305
-    id: '4'
-    port: 64563
-    secret: 4tQ7Cu0ctIRO7rOxELBqus
-  - cipher: chacha20-ietf-poly1305
     id: '5'
     port: 64563
     secret: l12S38Z4f6R196qBME6EP1
@@ -27,14 +19,6 @@ keys:
     id: '6'
     port: 64563
     secret: cLEMRZn2dGX350cEPiaVAg
-  - cipher: chacha20-ietf-poly1305
-    id: '7'
-    port: 64563
-    secret: Yaw5r9zgZBLlWhJ2jss8Os
-  - cipher: chacha20-ietf-poly1305
-    id: '8'
-    port: 64563
-    secret: sADmG3hBamRVLIbtiOaAzC
   - cipher: chacha20-ietf-poly1305
     id: '9'
     port: 64563
@@ -104,10 +88,6 @@ keys:
     port: 64563
     secret: d4phmMj1IZHyufs48wPc7g
   - cipher: chacha20-ietf-poly1305
-    id: '26'
-    port: 64563
-    secret: h0lr4WWTXUH1rqHgLsM5mL
-  - cipher: chacha20-ietf-poly1305
     id: '27'
     port: 64563
     secret: yTqXJWMiwZgSIfH43f0P1K
@@ -131,14 +111,6 @@ keys:
     id: '32'
     port: 64563
     secret: EJYly1vMaUxAqh4JC0cdH8
-  - cipher: chacha20-ietf-poly1305
-    id: '33'
-    port: 64563
-    secret: EfX9p5Q7hRRCpB7Q4rlbAR
-  - cipher: chacha20-ietf-poly1305
-    id: '34'
-    port: 64563
-    secret: ZMW8WpV1hzVm0IUT2qEYPu
   - cipher: chacha20-ietf-poly1305
     id: '35'
     port: 64563
@@ -168,10 +140,6 @@ keys:
     port: 64563
     secret: bN1rW8nh6u1sgcPDBWyOZ9
   - cipher: chacha20-ietf-poly1305
-    id: '42'
-    port: 64563
-    secret: kAvA8PQrvAG94UVpJT6KPT
-  - cipher: chacha20-ietf-poly1305
     id: '43'
     port: 64563
     secret: RuLFvM4p4rk7e2EQVWYedj
@@ -196,10 +164,10 @@ keys:
     port: 64563
     secret: Tsw4WOttQT7RPR6d7kToQD
   - cipher: chacha20-ietf-poly1305
-    id: '49'
-    port: 64563
-    secret: w3IU9LW4PNfI1XNKewExk1
-  - cipher: chacha20-ietf-poly1305
     id: '50'
     port: 64563
     secret: zOZq82pcOgZOc3VSkcFhVM
+  - cipher: chacha20-ietf-poly1305
+    id: '51'
+    port: 61595
+    secret: gE5lCJQJhNOFf5tt3478n4
